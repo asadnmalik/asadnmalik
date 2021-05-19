@@ -30,7 +30,7 @@
 - 🛢 &nbsp; SQL | Firebase 
 - 🔧 &nbsp; Visual Studio Code | Git | Pycharm | Photoshop | Illustrator | Git
 
-- 📖 &nbsp; Currently Learning: &nbsp; <img height="20" src="https://img-premium.flaticon.com/png/512/1126/1126012.png?token=exp=1621427254~hmac=488d522a24c8d2d1379a4714cc93f86d"> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"> <img height="20" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"> <img height="20" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
+- 📖 &nbsp; Currently Learning: &nbsp; <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"> <img height="20" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"> <img height="20" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
 
 <h3> 🤝🏻 Connect with Me </h3>
 
