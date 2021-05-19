@@ -2,9 +2,9 @@
 
 
 <p align="center">
-&nbsp; <a href="https://www.facebook.com/AsadNaveedMalik" target="_blank" rel="noopener noreferrer"><img src="http://assets.stickpng.com/thumbs/584ac2d03ac3a570f94a666d.png" width="50" /></a>  
+&nbsp; <a href="https://www.facebook.com/AsadNaveedMalik" target="_blank" rel="noopener noreferrer"><img src="https://freevectoricon.com/wp-content/uploads/2020/08/png-vectors-photos-free-download-pngpedia-facebook-logo-like-1-1024x1024.png" width="50" /></a>  
 &nbsp; <a href="https://asadnaveedmalik.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://www.pinclipart.com/picdir/big/211-2116571_website-website-logo-png-transparent-background-clipart.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/asad-naveed-8b4a541b9/" target="_blank" rel="noopener noreferrer"><img src="https://spng.pngfind.com/pngs/s/53-534062_linkedin-for-lawyers-property-icon-circle-hd-png.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/asad-naveed-8b4a541b9/" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50" /></a>
 &nbsp; <a href="mailto:asadmnaveed@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"  width="50" /></a>
 </p>
 
