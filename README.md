@@ -2,7 +2,7 @@
 
 
 <p align="center">
-&nbsp; <a href="https://www.facebook.com/AsadNaveedMalik" target="_blank" rel="noopener noreferrer"><img src="![image](https://user-images.githubusercontent.com/77789434/118814407-9274d680-b8c9-11eb-8a21-d885a0a925f2.png)" width="50" /></a>  
+&nbsp; <a href="https://www.facebook.com/AsadNaveedMalik" target="_blank" rel="noopener noreferrer"><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" width="50" /></a>  
 &nbsp; <a href="https://asadnaveedmalik.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img-premium.flaticon.com/png/512/841/841364.png?token=exp=1621426016~hmac=19d31e5aa9c2ff12c29d0d7b8c3dd020" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/asad-naveed-8b4a541b9/" target="_blank" rel="noopener noreferrer"><img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621426083~hmac=40c0a7e533bb7926b1c1b829f54a5931" width="50" /></a>
 &nbsp; <a href="mailto:asadmnaveed@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img-premium.flaticon.com/png/512/732/732200.png?token=exp=1621426115~hmac=8fa55c03682b819caf299a4e93c419b0"  width="50" /></a>
