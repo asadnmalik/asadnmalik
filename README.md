@@ -15,7 +15,7 @@
 - 🎓 &nbsp; Studied BSc. Computer Engineering
 - 💼 &nbsp; Front-end Developer and graphic designer.
 - 🔭 &nbsp; I’m currently learning Full Stack Web Development
-- 🌱 &nbsp; Exploring new technologies and an ethusiast
+- 🌱 &nbsp; Exploring new technologies and an enthusiast
 - ✍️ &nbsp; Watching movies, gaming and trying out latest design trends as hobbies/side hustles.
 - 📚 &nbsp; Always pushing towards learning.
 - 😄 &nbsp; *"Happiness lies in the joy of achievement and the thrill of creative effort"* 
