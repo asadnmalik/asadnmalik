@@ -25,7 +25,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React.js
+- 🌐 &nbsp; HTML | CSS | SASS | JavaScript | jQuery | Bootstrap | React.js | Liquid 
 - 💻 &nbsp; Python | C++  
 - 🛢 &nbsp; SQL | Firebase 
 - 🔧 &nbsp; Visual Studio Code | Git | Pycharm | Photoshop | Illustrator | Git
