@@ -8,7 +8,7 @@
 
 - 👋 &nbsp; My name's Asad Naveed Malik, I'm 23 living in Rawalpindi, Pakistan.
 - 🎓 &nbsp; Studied BSc. Computer Engineering
-- 💼 &nbsp;  Jr. Frontend Engineer at [Black and Black Creative](https://www.blackandblackcreative.com)
+- 💼 &nbsp; Frontend Engineer at [Black and Black Creative](https://www.blackandblackcreative.com)
 - 🔭 &nbsp; I’m currently learning Full Stack Web Development
 - 🌱 &nbsp; Exploring new technologies and an enthusiast
 - ✍️ &nbsp; Watching movies, gaming and trying out latest design trends as hobbies/side hustles.
