@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👋 &nbsp; My name's Asad Naveed Malik, I'm 25 living in Rawalpindi, Pakistan.
+- 👋 &nbsp; My name's Asad Naveed Malik, I'm 27 living in Rawalpindi, Pakistan.
 - 🎓 &nbsp; Studied BSc. Computer Engineering
 - 💼 &nbsp; Frontend Engineer at [Black and Black Creative](https://www.blackandblackcreative.com)
 - 🔭 &nbsp; I’m currently learning Full Stack Web Development
